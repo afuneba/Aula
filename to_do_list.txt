@@ -1,0 +1,5 @@
+01:cria pagina
+02:registrar domio
+03:estudar html
+04:trabalhar
+05:comer
